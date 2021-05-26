@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-一、苹果的小火箭单独去油管广告（也同样适用于Quantumult，Quantumult X，Loon等app
+一、苹果的小火箭单独去油管广告
 1、打开Shadowrocket--点击配置--点击.conf的配置文件，点击编辑纯文本。
 2、复制下方代码，然后将拷贝的代码粘贴到
 [URL Rewrite]

@@ -28,7 +28,6 @@ https://raw.githubusercontent.com/kujieyinse/yy/main/yy_aus.conf
 5 台湾
 https://raw.githubusercontent.com/kujieyinse/yy/main/yy_atw.conf
 
-二、番链接下载   
-
+二、番链接下载  
 1、大地种子收获合集: https://url.ctfile.com/d/2825762-44203709-ace0e2 （访问/解压密码：fzex）
 

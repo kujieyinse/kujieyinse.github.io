@@ -3,7 +3,8 @@
 一、苹果的小火箭配置文件使用说明：  
 1、打开Shadowrocket--点击配置--新增配置-粘贴URL下载-使用  
 2、点击.conf的配置文件--点击编辑配置--找到HTTPS解密
-生成证书-安装证书-手机设置描述文件允许-设置-通用-关于本机-证书信任设置-下面对应的证书开关打开-证书安装成功
+生成证书-安装证书-手机设置描述文件允许-设置-通用-关于本机-证书信任设置-下面对应的证书开关打开-证书安装成功  
+
 最重要还是需要用到HITM的功能，也就是http解密。
 
 注：  
@@ -29,6 +30,8 @@ https://raw.githubusercontent.com/kujieyinse/yy/main/yy_aus.conf
 https://raw.githubusercontent.com/kujieyinse/yy/main/yy_atw.conf
 
 二、番链接下载  
-1、大地种子收获合集: https://url.ctfile.com/d/2825762-44203709-ace0e2  
+大地种子收获合集: https://url.ctfile.com/d/2825762-44203709-ace0e2  
  （访问/解压密码：fzex）
+
+三、书源json  
 

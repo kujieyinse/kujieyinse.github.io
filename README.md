@@ -7,8 +7,8 @@
 最重要还是需要用到HITM的功能，也就是http解密。
 
 注：  
-1 适用于tiktok版本20.0.0（向下兼容），其他地区app store下载即可
-2 若tiktok第一次不成功，或者怎么都不成功，可以试试卸载，重新安装（有的版本只要第一次失败，会记录，后面都无法成功）
+1 适用于tiktok版本20.0.0（向下兼容），其他地区app store下载即可  
+2 若tiktok第一次不成功，或者怎么都不成功，可以试试卸载，重新安装（有的版本只要第一次失败，会记录，后面都无法成功）  
 3 后面更新的版本可能会使之失效，非永久有效
 
 1 去youtube广告
@@ -27,4 +27,4 @@ https://raw.githubusercontent.com/kujieyinse/yy/main/yy_aus.conf
 https://raw.githubusercontent.com/kujieyinse/yy/main/yy_atw.conf
 
 二、番链接下载
-1 
+1、

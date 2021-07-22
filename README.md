@@ -4,7 +4,6 @@
 1、打开Shadowrocket--点击配置--新增配置-粘贴URL下载-使用
 2、点击.conf的配置文件--点击编辑配置--找到HTTPS解密
 生成证书-安装证书-手机设置描述文件允许-设置-通用-关于本机-证书信任设置-下面对应的证书开关打开-证书安装成功
-
 最重要还是需要用到HITM的功能，也就是http解密。
 
 注：
@@ -27,5 +26,4 @@ https://raw.githubusercontent.com/kujieyinse/yy/main/yy_aus.conf
 5 台湾
 https://raw.githubusercontent.com/kujieyinse/yy/main/yy_atw.conf
 
-二、
-
+二、番链接下载

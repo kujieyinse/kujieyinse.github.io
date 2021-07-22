@@ -26,12 +26,14 @@ https://raw.githubusercontent.com/kujieyinse/yy/main/yy_akr.conf
 4 美国tiktok
 https://raw.githubusercontent.com/kujieyinse/yy/main/yy_aus.conf
 
-5 台湾
+5 台湾tiktok
 https://raw.githubusercontent.com/kujieyinse/yy/main/yy_atw.conf
 
-二、番链接下载  
+二、番劇链接下载  
 大地种子收获合集: https://url.ctfile.com/d/2825762-44203709-ace0e2  
  （访问/解压密码：fzex）
 
 三、书源json  
+
+四、電視盒子
 

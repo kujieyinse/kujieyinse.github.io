@@ -33,7 +33,13 @@ https://raw.githubusercontent.com/kujieyinse/yy/main/yy_atw.conf
 大地种子收获合集: https://url.ctfile.com/d/2825762-44203709-ace0e2  
  （访问/解压密码：fzex）
 
-三、书源json  
+三、安卓，mac os，window客户端  
+大蹄子:  
+ https://url.ctfile.com/d/2825762-43891367-de2ba7  
+ （访问/解压密码：fzex）
 
-四、電視盒子
+
+四、书源json  
+
+五、電視盒子
 
